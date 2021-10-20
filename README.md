@@ -1,2 +1,2 @@
 # SMXM8UF2A04
-aquest es un projecte de prova amb GIT by Toni Rubio
+aquest es el primer projecte by Toni Rubio
